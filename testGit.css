@@ -1,8 +1,9 @@
 body{
 	background-color: rgb(123, 342, 231);
 	display: flex;
+	flex-direction: column;
 	justify-content: space-around;
 }
-h1{
+h1, p{
 	align-self: center;
 }

@@ -1,0 +1,8 @@
+body{
+	background-color: rgb(123, 342, 231);
+	display: flex;
+	justify-content: space-around;
+}
+h1{
+	align-self: center;
+}
